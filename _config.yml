@@ -26,8 +26,19 @@ description: nano-statellites for astrophysicists
 navbar-links:
   News:
     - Brite news: "brite-news/index"
-    - International Conference&#58; August 19 – 23, 2019: "pages/conference_2019"
-    - Past and future meetings: "pages/meetings"
+    - International Conference&#58; August 19 – 23, 2019: "blogs/conference_2019"
+    - Past and future meetings: "blogs/meetings"
+  Science:
+    - Basic Information: "science/basic_information"
+    - Photometry: "science/photometry"
+    - Observation Programme: "science/observation_programme"
+    - Data Reduction: "science/data_reduction"
+    - Observing Proposals: "science/observing_proposals"
+  Constellation:
+    - Basic Information: "constellation/basic_information"
+    - Management: "constellation/management"
+    - Engineering: "constellation/engineering"
+
   Author's home: "http://deanattali.com"
 
 # --- Background colour/image options --- #

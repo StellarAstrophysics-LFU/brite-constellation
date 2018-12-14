@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The early history of BRITE (by Slavek Rucinski)
+title: 'January 2018: Change of Chair / Vice-Chair'
 ---
 Since 1 January 2018 BRITE-Constellation has a new chair, Gregg Wade, and vice-chair, Konstanze Zwintz.
 

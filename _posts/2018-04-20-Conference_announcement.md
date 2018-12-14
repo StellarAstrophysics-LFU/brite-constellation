@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The early history of BRITE (by Slavek Rucinski)
+title: 'Conference Announcement: Vienna, August 19 – 23, 2019'
 ---
 We are currently planning an international conference in Vienna, one year after the IAU General Assembly, from August 19 to 23, 2019, with the title:
 
