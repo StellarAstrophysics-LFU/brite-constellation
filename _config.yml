@@ -38,8 +38,10 @@ navbar-links:
     - Basic Information: "constellation/basic_information"
     - Management: "constellation/management"
     - Engineering: "constellation/engineering"
-
-  Author's home: "http://deanattali.com"
+  Links & more:
+    - Image Gallery: "links/image_gallery"
+    - Scientific Publications: "links/publications"
+    - Promotion Material: "links/promotion_material
 
 # --- Background colour/image options --- #
 
