@@ -111,10 +111,7 @@ img {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  {% if site.navbar-img %}
-  background-image: url({{ site.navbar-img }});
-  background-attachment: fixed;
-  {% endif %}
+
 }
 
 .navbar-custom .nav li a {
@@ -155,19 +152,23 @@ img {
   height: 40px;
 }
 
-@media only screen and (min-width: 768px) {
-  .navbar-custom {
-    padding: 100px 0;
-    background-repeat:no-repeat;
-    background-position: center top;
-    -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
-    -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
-    transition: background .5s ease-in-out,padding .5s ease-in-out;
-  }
 
-  .navbar-custom.top-nav-short {
-    padding: 0;
-  }
+.navbar-custom {
+  padding: 150px 0;
+  background-repeat:no-repeat;
+  background-position: center top;
+  {% if site.navbar-img %}
+  background-image: url({{ site.navbar-img }});
+  background-attachment: fixed;
+  {% endif %}
+  -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+  -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+  transition: background .5s ease-in-out,padding .5s ease-in-out;
+}
+
+.navbar-custom.top-nav-short {
+  padding: 0;
+  background-image: none;
 }
 
 .navbar-custom .avatar-container {
@@ -213,9 +214,19 @@ img {
   }
 }
 
-.container-fluid  {
+@media only screen and (min-width: 768px) {
+.container-fluid {
   padding-left: max(15px, env(safe-area-inset-left));
   padding-right: max(15px, env(safe-area-inset-right));
+  position: absolute;
+  -webkit-transition: top .5s ease-in-out,padding .5s ease-in-out;
+  -moz-transition: top .5s ease-in-out,padding .5s ease-in-out;
+  top: 200px;
+  }
+  .container-fluid.top-nav-short {
+    top: 0px;
+    position: initial;
+  }
 }
 
 /* Multi-level navigation links */
@@ -522,7 +533,7 @@ footer .theme-by {
 }
 @media only screen and (min-width: 768px) {
   .intro-header {
-    margin-top: 280px;
+    margin-top: 340px;
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
