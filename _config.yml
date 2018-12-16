@@ -8,8 +8,8 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "https://stellarastrophysics-lfu.github.io"
-url: "http://localhost:4000"
+url: "https://stellarastrophysics-lfu.github.io"
+#url: "http://localhost:4000"
 #baseurl: "/brite-constellation"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
@@ -89,7 +89,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "brite-constellation.at"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -232,6 +232,3 @@ plugins:
   - jekyll-sitemap
 
 paginate_path: "/brite-news/page:num/"
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189

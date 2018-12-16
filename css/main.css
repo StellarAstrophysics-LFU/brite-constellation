@@ -257,6 +257,9 @@ img {
   display: none;
   word-break: break-word;
 }
+.navbar-custom .nav .navlinks-container {
+  min-width: 150px;
+}
 .navbar-custom .nav .navlinks-container .navlinks-children a {
   display: block;
   padding: 10px;
@@ -266,6 +269,8 @@ img {
   border-width: 0 1px 1px 1px;
   font-weight: normal;
 }
+
+
 @media only screen and (max-width: 767px) {
   .navbar-custom .nav .navlinks-container.show-children {
     background: rgba(0, 0, 0, 0.2);
