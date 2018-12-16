@@ -21,7 +21,7 @@ although they are the brightest stars in the night sky, they are still
 inadequately understood.**
 
 They are distributed all over the sky (see Figure):
-![]({{ site.url }}/img/BrightStars_map.jpg)
+![]({{ site.url }}{{ site.baseurl }}/img/BrightStars_map.jpg)
 
 Read more about the early history of the BRITE project summarized by Slavek Rucinski:
-[The early history of the BRITE project (pdf)]({{ site.url }}/downloads/Early_history_of_BRITE.pdf)
+[The early history of the BRITE project (pdf)]({{ site.url }}{{ site.baseurl }}/downloads/Early_history_of_BRITE.pdf)

@@ -19,7 +19,7 @@ frame exposures of the Orion field. On top is the red image obtained
 by UniBRITE and below of it the blue image recorded by BRITE-Austria,
 both December 2013.
 
-![image tooltip here]({{ site.url }}/img/OrionI-BAb_FF.png)
+![image tooltip here]({{ site.url }}{{ site.baseurl }}/img/OrionI-BAb_FF.png)
 
 For each of the target stars in the field a subraster section (image data)
 of the CCD containing the Point Spread Function (PSF) and sky background
@@ -32,8 +32,8 @@ in the Figure above) where the top red are from UniBRITE and the bottom blue
 from BRITE-Austria. The different shapes of the PSFs depending on their positions
 on the CCDs are clearly visible.
 
-![image tooltip here]({{ site.url }}/img/OrionI-UBr_FF.png)
-![image tooltip here]({{ site.url }}/img/OrionI-BAb_PSFs.png)
+![image tooltip here]({{ site.url }}{{ site.baseurl }}/img/OrionI-UBr_FF.png)
+![image tooltip here]({{ site.url }}{{ site.baseurl }}/img/OrionI-BAb_PSFs.png)
 
 The BRITE photometry is conducted with a KODAK 4008 x 2672 pixels CCD
 detector with a plate scale of 30 arcseconds per pixel. A filter mounted
@@ -48,4 +48,4 @@ about 180 days constrained by the minimum Sun exclusion angle of 90
 degrees from the aperture plane of the telescope. In addition straylight
 conditions from the bright Earth have to be also considered.
 
-![image tooltip here]({{ site.url }}/img/BRITE-C_timeseries_properties.jpg)
+![image tooltip here]({{ site.url }}{{ site.baseurl }}/img/BRITE-C_timeseries_properties.jpg)
