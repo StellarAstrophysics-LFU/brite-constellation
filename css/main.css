@@ -152,23 +152,28 @@ img {
   height: 40px;
 }
 
-
-.navbar-custom {
-  padding: 120px 0;
-  background-repeat:no-repeat;
-  background-position: center top;
-  {% if site.navbar-img %}
-  background-image: url({{ site.navbar-img }});
-  background-attachment: fixed;
-  {% endif %}
-  -webkit-transition: padding .5s ease-in-out,background .5s ease-in-out;
-  -moz-transition: padding .5s ease-in-out,background .5s ease-in-out;
-  transition: padding .5s ease-in-out,background .5s ease-in-out;
-}
-
 .navbar-custom.top-nav-short {
   padding: 0;
   background-image: none;
+}
+
+@media only screen and (min-width: 768px) {
+  .navbar-custom {
+    padding: 120px 0;
+    background-repeat:no-repeat;
+    background-position: center top;
+    {% if site.navbar-img %}
+    background-image: url({{ site.navbar-img }});
+    background-attachment: fixed;
+    {% endif %}
+    -webkit-transition: padding .5s ease-in-out,background .5s ease-in-out;
+    -moz-transition: padding .5s ease-in-out,background .5s ease-in-out;
+    transition: padding .5s ease-in-out,background .5s ease-in-out;
+  }
+  .navbar-custom.top-nav-short {
+    padding: 0;
+    background-image: none;
+  }
 }
 
 .navbar-custom .avatar-container {
@@ -214,6 +219,12 @@ img {
   }
 }
 
+.container-fluid.top-nav-short {
+  top: 0px;
+  left: 0px;
+  position: relative
+}
+
 @media only screen and (min-width: 768px) {
 .container-fluid {
   padding-left: max(15px, env(safe-area-inset-left));
@@ -233,21 +244,6 @@ img {
     position: relative
   }
 }
-.container-fluid {
-  -webkit-transition: position .5s ease-in-out,left .5s ease-in-out,top .5s ease-in-out,padding .5s ease-in-out;
-  -moz-transition: position .5s ease-in-out,left .5s ease-in-out,top .5s ease-in-out,padding .5s ease-in-out;
-  transition: position .5s ease-in-out,left .5s ease-in-out,top .5s ease-in-out,padding .5s ease-in-out;
-    top: 125px;
-  left: 0px;
-  right: 0px;
-  bottom: 0px;
-  position: relative;
-  }
-  .container-fluid.top-nav-short {
-    top: 0px;
-    left: 0px;
-    position: relative
-  }
 
 /* Multi-level navigation links */
 .navbar-custom .nav .navlinks-container {
@@ -472,9 +468,16 @@ footer .theme-by {
 }
 /* --- Post and page headers --- */
 
-.intro-header {
-  margin: 340px 0 20px;
-  position: relative;
+  .intro-header {
+    margin: 75px 0 20px;
+    position: relative;
+  }
+
+@media only screen and (min-width: 768px) {
+  .intro-header {
+    margin: 340px 0 20px;
+    position: relative;
+  }
 }
 .intro-header.big-img {
   background: no-repeat center center;
