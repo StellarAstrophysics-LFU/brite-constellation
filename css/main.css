@@ -161,9 +161,9 @@ img {
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
   {% endif %}
-  -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
-  -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
-  transition: background .5s ease-in-out,padding .5s ease-in-out;
+  -webkit-transition: padding .5s ease-in-out,background .5s ease-in-out;
+  -moz-transition: padding .5s ease-in-out,background .5s ease-in-out;
+  transition: padding .5s ease-in-out,background .5s ease-in-out;
 }
 
 .navbar-custom.top-nav-short {
@@ -219,12 +219,15 @@ img {
   padding-left: max(15px, env(safe-area-inset-left));
   padding-right: max(15px, env(safe-area-inset-right));
   position: absolute;
-  -webkit-transition: top .5s ease-in-out,padding .5s ease-in-out;
-  -moz-transition: top .5s ease-in-out,padding .5s ease-in-out;
-  top: 200px;
+  -webkit-transition: left .5s ease-in-out,top .5s ease-in-out,padding .5s ease-in-out;
+  -moz-transition: left .5s ease-in-out,top .5s ease-in-out,padding .5s ease-in-out;
+  transition: left .5s ease-in-out,top .5s ease-in-out,padding .5s ease-in-out;
+  top: 250px;
+  left: 0px;
   }
   .container-fluid.top-nav-short {
     top: 0px;
+    left: 0px
     position: initial;
   }
 }
