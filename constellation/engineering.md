@@ -35,6 +35,8 @@ The filters were designed such that for a star of 10000K (average temperature fo
 
 # Communication
 Communication with BRITE nanosatellites is presently provided by ground stations in [Toronto](https://utias-sfl.net/?page_id=1759), [Vancouver](https://www.phas.ubc.ca/), [Graz](https://www.tugsat.at/), and [Warsaw](https://www.brite-pl.pl/pliki/main_en.html).
-|![Tower]({{ site.url }}{{ site.baseurl }}/img/IKS-TUG_GS-antenna-tower.jpg)
+
+![Tower]({{ site.url }}{{ site.baseurl }}/img/IKS-TUG_GS-antenna-tower.jpg)
+
 [A description of BRITE-Constellation can be found in this refereed publication (Weiss et al. 2014, PASP, 126, 573).]({{ site.url }}{{ site.baseurl }}/downloads/PASP.pdf)
 
