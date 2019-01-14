@@ -16,7 +16,7 @@ Any field on the sky can be observed with the BRITE instruments. There are no re
 
 # Individual BRITEs
 
-## ![Austria]({{ site.url }}{{ site.baseurl }}/img/flag-of-Austria.png) BRITE-Austria (TUG-SAT1, PI O. Koudelka) and UniBRITE  (PI W. W. Weiss)
+## <img src="{{ site.baseurl }}/img/flag-of-Austria.png"  class="ImageBorder" /> BRITE-Austria (TUG-SAT1, PI O. Koudelka) and UniBRITE  (PI W. W. Weiss)
 
 The two Austrian BRITEs were launched on February 25, 2013, by the Indian Space Research Organization (ISRO) from Sriharikota, near Cheney in I
 
@@ -26,7 +26,7 @@ BRITE-AUSTRIA and UniBRITE are the first two satellites launched and operated au
 
 
 
-## ![Poland]({{ site.url }}{{ site.baseurl }}/img/flag-of-Poland.png) BRITE-Lem and BRITE-Heweliusz (PI G. Handler)
+## <img src="{{ site.url }}{{ site.baseurl }}/img/flag-of-Poland.png" class="ImageBorder"/> BRITE-Lem and BRITE-Heweliusz (PI G. Handler)
 
 
 Logo BRITE PolandPoland decided to join the BRITE-Constellation mission by contributing two satellites on December 16, 2009, when the (Polish) Minister of Science and Higher Education signed a contract to fund the project “BRITE: First Polish Scientific Satell
@@ -36,7 +36,7 @@ The first BRITE satellite, BRITE-Lem, was launched on November 21, 2013, from Ya
 
 
 
-## ![Canada]({{ site.url }}{{ site.baseurl }}/img/flag-of-Canada.png) BRITE-Toronto and BRITE-Montreal (PI A. Moffat)
+## <img src="{{ site.url }}{{ site.baseurl }}/img/flag-of-Canada.png" class="ImageBorder"/> BRITE-Toronto and BRITE-Montreal (PI A. Moffat)
 
 In December 2010, a contract was signed between the Canadian Space Agency  (CSA) and the Space Flight Lab (UTIAS-SFL) of the University of Toronto, Institute for Aerospace Studies (UTIAS), to add two satellites to BRITE-Constellation. BRITE-Toronto and BRITE-Montreal were launched together on June 19, 2014, from Yasni in Russia.
 

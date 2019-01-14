@@ -9,8 +9,8 @@
 
 # If you are building a GitHub project page then use these settings:
 url: "https://stellarastrophysics-lfu.github.io"
-#url: "http://localhost:4000"
 baseurl: "/brite-constellation"
+#url: "http://localhost:4000"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -38,10 +38,17 @@ navbar-links:
     - Basic Information: "constellation/basic_information"
     - Management: "constellation/management"
     - Engineering: "constellation/engineering"
+  GBOT:
+    - Basic Information: "gbot/basic_information"
+    - GB Observations: "gbot/observations"
+    - Cooperations: "gbot/cooperations"
+    - Facilities: "gbot/facilities"
+    - Members: "gbot/members"
   Links & more:
     - Image Gallery: "links/image_gallery"
-    - Scientific Publications: "links/publications"
+    - Scientific Publications: "links/scientific_publications"
     - Promotion Material: "links/promotion_material"
+    - Multimedia: "links/multimedia"
 
 # --- Background colour/image options --- #
 

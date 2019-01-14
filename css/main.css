@@ -23,7 +23,7 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 500;
 }
 a {
   color: {{ site.link-col }};
@@ -243,6 +243,22 @@ img {
     left: 0px;
     position: relative
   }
+}
+
+.ImageBorder
+{
+    border: 1px solid grey;
+    border-width: 1px;
+    border-color: grey;
+}
+
+.table-same-width {
+  table-layout: fixed;
+  width: 100%;
+
+.td {
+  width: 33%;
+}
 }
 
 /* Multi-level navigation links */

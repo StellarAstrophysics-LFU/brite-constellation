@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Observing Programme
+title: Observation Programme
 ---
 Details about the BRITE Constellation observing plan, including target
 star lists, are posted and updated on the [BRITE Photometry Wiki page](https://brite.craq-astro.ca/doku.php).

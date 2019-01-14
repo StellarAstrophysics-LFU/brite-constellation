@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Science
+title: Management
 ---
 
-# Management
 ## BRITE-Constellation Executive Science Team (BEST)
 
 The BRITE Executive Science Team, abbreviated BEST, acts as the steering
@@ -19,11 +18,14 @@ BEST currently consists of 12 voting members (4 per country), and in addition 11
 
 **Voting BEST members (as of November 2017)**
 
-|![Austria]({{ site.url }}{{ site.baseurl }}/img/flag-of-Austria.png) | ![Canada]({{ site.url }}{{ site.baseurl }}/img/flag-of-Canada.png) | ![Poland]({{ site.url }}{{ site.baseurl }}/img/flag-of-Poland.png)
-Otto Koudelka (PI BRITE-Austria)    |Anthony Moffat     |Gerald Handler (PI)
-Rainer Kuschnig                     |Jason Rowe         |Piotr Orleański
-Werner W. Weiss (PI UniBRITE)       |Slavek Rucinski    |Andrzej Pigulski
-Konstanze Zwintz                    |Gregg Wade (PI)    |Radosław Smolec
+{:class="table-same-width"}
+|<img src="{{ site.baseurl }}/img/flag-of-Austria.png"  class="ImageBorder" /> | <img src="{{ site.url }}{{ site.baseurl }}/img/flag-of-Canada.png" class="ImageBorder"/> | <img src="{{ site.url }}{{ site.baseurl }}/img/flag-of-Poland.png" class="ImageBorder"/>|
+|----------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+|Otto Koudelka (PI BRITE-Austria)                    |Anthony Moffat                                     |Gerald Handler (PI)                                |
+|Rainer Kuschnig                                     |Jason Rowe                                         |Piotr Orleański                                    |
+|Werner W. Weiss (PI UniBRITE)                       |Slavek Rucinski                                    |Andrzej Pigulski                                   |
+|Konstanze Zwintz                                    |Gregg Wade (PI)                                    |Radosław Smolec                                    |
+
 
 
 **Non-voting BEST members in alphabetical order (as of December 2017)**
