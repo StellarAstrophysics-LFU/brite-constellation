@@ -33,14 +33,14 @@ If you are interested to cooperate with BRITE scientists, choose a star from the
 We are in close contact to the following amateur communities:
 
 * **BRITE Interface to AAVSO**
-**Contact: Stella Kafka** (Director, skafka@aavso.org)
+**Contact: Stella Kafka** (Director, [✉](skafka@aavso.org))
 Tasks: Coordination of observations from AAVSO amateur observers
 * **BRITE Interface to Amateur Astronomer Groups in North America**
-**PI: Noel Richardson** (richardson@astro.umontreal.ca)
+**PI: Noel Richardson** ([✉](richardson@astro.umontreal.ca))
 Tasks: Coordination of observations from amateur observers for BRITE Targets in North America
 For further information please contact Noel Richardson directly!
-* BRITE Interface to Amateur Astronomer Groups in Europe
-**PI: Thomas Eversberg **(Thomas.Eversberg@dlr.de)
-Website: https://spektroskopie.fg-vds.de
+* **BRITE Interface to Amateur Astronomer Groups in Europe**
+**PI: Thomas Eversberg**([✉](Thomas.Eversberg@dlr.de))
+Website: [https://spektroskopie.fg-vds.de](https://spektroskopie.fg-vds.de)
 Tasks: Coordination of observations from amateur astronomers for BRITE Targets in Europe
 For further information please contact Thomas Eversberg directly!

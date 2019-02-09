@@ -72,20 +72,7 @@ navbar-img: "img/BRITEheader.jpg"
 # page-img: "/img/bgimage.png"
 social-network-links:
   rss: true
-  email: "someone@example.com"
-#  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+  email: "konstanze.zwintz@uibk.ac.at"
 
 # Select which share links to show in posts
 share-links-active:
