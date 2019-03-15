@@ -4,7 +4,7 @@ title: Cooperations
 ---
 
 ## I. BRITE-Constellation Spectropolarimetry Team
-**PI: Coralie Neiner  (coralie.neiner@obspm.fr)**
+**PI: Coralie Neiner  ([✉](coralie.neiner@obspm.fr))**
 
 The BRITE-Constellation spectropolarimetry team investigates the magnetic properties of BRITE targets using the instruments ESPaDOnS, HarpsPol and NARVAL.
 
