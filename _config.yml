@@ -37,6 +37,7 @@ navbar-links:
   Constellation:
     - Basic Information: "constellation/basic_information"
     - Management: "constellation/management"
+    - Ethics Statement: "constellation/ethics_statement"
     - Engineering: "constellation/engineering"
   GBOT:
     - Basic Information: "gbot/basic_information"
