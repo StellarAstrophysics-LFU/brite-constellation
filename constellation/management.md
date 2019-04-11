@@ -19,7 +19,7 @@ BEST currently consists of 12 voting members (4 per country), and in addition 11
 **Voting BEST members (as of November 2017)**
 
 {:class="table-same-width"}
-|<img src="{{ site.baseurl }}/img/flag-of-Austria.png"  class="ImageBorder" /> | <img src="{{ site.url }}{{ site.baseurl }}/img/flag-of-Canada.png" class="ImageBorder"/> | <img src="{{ site.url }}{{ site.baseurl }}/img/flag-of-Poland.png" class="ImageBorder"/>|
+|<img src="{{ site.baseurl }}/img/flag-of-Austria.png"  class="ImageBorder" /> | <img src="{{ site.url }}/img/flag-of-Canada.png" class="ImageBorder"/> | <img src="{{ site.url }}/img/flag-of-Poland.png" class="ImageBorder"/>|
 |----------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
 |Otto Koudelka (PI BRITE-Austria)                    |Anthony Moffat                                     |Gerald Handler (PI)                                |
 |Rainer Kuschnig                                     |Jason Rowe                                         |Piotr Orleański                                    |

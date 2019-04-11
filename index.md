@@ -22,4 +22,4 @@ Both are crucial for a detailed asteroseismic study, which also
 benefits from two-colour information.
 
 
-![useful image]({{ site.url }}{{ site.baseurl }}/img/BRITE-C_partners_banner_1.jpg)
+![useful image]({{ site.url }}/img/BRITE-C_partners_banner_1.jpg)
