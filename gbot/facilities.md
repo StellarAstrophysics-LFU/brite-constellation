@@ -8,7 +8,7 @@ BRITE-Constellation targets have been included in several observing programmes a
 
 The location of all contributing observatories around the world can be seen on the map below.
 
-![Ground based observatories]({{ site.url }}{{ site.baseurl }}/img/GBOT-Map.jpg)
+![Ground based observatories]({{ site.url }}/img/GBOT-Map.jpg)
 
 The table below gives and overview of the observatories and instruments involved in complementary support observations for BRITE-Constellation in alphabetical order.
 

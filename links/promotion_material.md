@@ -5,7 +5,7 @@ title: Promotion material
 ## I. Build your own paper model of a BRITE nano-satellite
 The original idea and design are by Manuela Unterberger (IKS, TU Graz). There are several versions which are explained below.
 
-![Paper Model]({{ site.url }}{{ site.baseurl }}/img/UniBRITE-paper_model_image.jpg)
+![Paper Model]({{ site.url }}/img/UniBRITE-paper_model_image.jpg)
 
 ### Mobile “Build your satellite”
 
@@ -21,7 +21,7 @@ Advanced version: Print out this model on three A3 pages, cut them out and stick
 [Click to download the pdf file for the UniBRITE satellite here.]({{ site.url }}{{ site.baseurl }}/downloads/original-mockup.pdf)
 
 
-![Paper Model]({{ site.url }}{{ site.baseurl }}/img/Brite_Sondermarke.jpg)
+![Paper Model]({{ site.url }}/img/Brite_Sondermarke.jpg)
 
 ## II. Austrian stamp “Sonderbriefmarke”
 Presentation of the official Austrian stamp “Europa 2009” which shows one of the BRITE satellites on June 5, 2009.

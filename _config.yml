@@ -8,8 +8,10 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "https://stellarastrophysics-lfu.github.io"
-baseurl: "/brite-constellation"
+#url: "https://stellarastrophysics-lfu.github.io"
+#baseurl: "/brite-constellation"
+url: "https://brite-constellation.at"
+baseurl: ""
 #url: "http://localhost:4000"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
