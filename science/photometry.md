@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photometry
+title: Photometric Observations
 ---
 The strategy of BRITE Constellation is to observe one star field with
 typically 15 primary target stars during at least 15 minutes per

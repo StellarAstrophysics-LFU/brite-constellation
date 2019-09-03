@@ -30,8 +30,8 @@ navbar-links:
     - Past and future meetings: "blogs/meetings"
   Science:
     - Basic Information: "science/basic_information"
-    - Photometric Observations: "science/photometry"
-    - Data Policy Information: "science/data_policy"
+    - Photometry: "science/photometry"
+    - Observation Programme: "science/observation_programme"
     - Data Reduction: "science/data_reduction"
     - Observing Proposals: "science/observing_proposals"
   Constellation:
