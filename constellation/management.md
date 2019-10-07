@@ -28,8 +28,9 @@ BEST currently consists of 12 voting members (4 per country), and in addition 11
 
 
 
-**Non-voting BEST members in alphabetical order (as of December 2017)**
+**Non-voting BEST members in alphabetical order (as of October 2019)**
 - Dietrich Baade
+- Dominic Bowman
 - Jadwiga Daszynska-Daszkiewicz
 - Catherine Lovekin
 - Jaymie Matthews
