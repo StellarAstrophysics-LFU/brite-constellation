@@ -28,10 +28,12 @@ BEST currently consists of 12 voting members (4 per country), and in addition 11
 
 
 
-**Non-voting BEST members in alphabetical order (as of October 2019)**
+**Non-voting BEST members in alphabetical order (as of November 2019)**
 - Dietrich Baade
+- Paul Beck
 - Dominic Bowman
 - Jadwiga Daszynska-Daszkiewicz
+- Saskia Hekker
 - Catherine Lovekin
 - Jaymie Matthews
 - Stefan Mochnacki
@@ -40,6 +42,7 @@ BEST currently consists of 12 voting members (4 per country), and in addition 11
 - Bert Pablo
 - Adam Popowicz
 - Aleksander Schwarzenberg-Czerny
+- Sergio Simon-Diaz
 - Nicole St-Louis
 
 # The BRITE Team
