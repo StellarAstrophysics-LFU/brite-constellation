@@ -10,40 +10,40 @@ committee for the mission. It has the authority to make all relevant
 decisions for the project, such as producing the observing schedule and
 granting access to the data.
 
-BEST currently consists of 12 voting members (4 per country), and in addition 11 non-voting members.
+BEST currently consists of 12 voting members (4 per country), and in addition 15 non-voting members.
 
-**Current BRITE-Constellation chair:** Gregg Wade (Jan 2018 – Dec 2019)
+**Current BRITE-Constellation chair:** Konstanze Zwintz (Jan 2020 – Dec 2021)
 
-**Current BRITE-Constellation vice-chair:** Konstanze Zwintz (Jan 2018 – Dec 2019)
+**Current BRITE-Constellation vice-chair:** Gerald Handler (Jan 2020 – Dec 2021)
 
-**Voting BEST members (as of November 2017)**
+**Voting BEST members (as of January 2020)**
 
 {:class="table-same-width"}
 |<img src="{{ site.baseurl }}/img/flag-of-Austria.png"  class="ImageBorder" /> | <img src="{{ site.url }}/img/flag-of-Canada.png" class="ImageBorder"/> | <img src="{{ site.url }}/img/flag-of-Poland.png" class="ImageBorder"/>|
 |----------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
-|Otto Koudelka (PI BRITE-Austria)                    |Anthony Moffat                                     |Gerald Handler (PI)                                |
-|Rainer Kuschnig                                     |Jason Rowe                                         |Piotr Orleański                                    |
-|Werner W. Weiss (PI UniBRITE)                       |Slavek Rucinski                                    |Andrzej Pigulski                                   |
+|Otto Koudelka (PI BRITE-Austria)                    |Catherine Lovekin                                     |Gerald Handler (PI)                                |
+|Rainer Kuschnig                                     |Anthony Moffat                                         |Piotr Orleański                                    |
+|Werner W. Weiss (PI UniBRITE)                       |Nicole St-Louis                                    |Andrzej Pigulski                                   |
 |Konstanze Zwintz                                    |Gregg Wade (PI)                                    |Radosław Smolec                                    |
 
 
 
-**Non-voting BEST members in alphabetical order (as of November 2019)**
+**Non-voting BEST members in alphabetical order (as of January 2020)**
 - Dietrich Baade
 - Paul Beck
 - Dominic Bowman
 - Jadwiga Daszynska-Daszkiewicz
 - Saskia Hekker
-- Catherine Lovekin
 - Jaymie Matthews
 - Stefan Mochnacki
 - Coralie Neiner
 - Alosha Pamyatnykh
 - Bert Pablo
 - Adam Popowicz
+- Jason Rowe
+- Slavek Rucinski
 - Aleksander Schwarzenberg-Czerny
 - Sergio Simon-Diaz
-- Nicole St-Louis
 
 # The BRITE Team
 In some articles (such as Conference Proceedings) it is referred to “the BRITE team” which consists of the following members in given years (listed in alphabetical order as of 24 January 2018).
