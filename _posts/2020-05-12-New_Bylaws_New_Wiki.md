@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New BRITE Constellation wiki & Updated Bylaws Document (12 May 2020)'
+title: 'New BRITE Constellation Wiki & Updated Bylaws Document (12 May 2020)'
 ---
 
 Due to technical issues, the old photometry wiki is not up-to-date any longer. We have moved all relevant information to the new site of the BRITE Constellation Wiki:
