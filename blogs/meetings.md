@@ -3,12 +3,16 @@ layout: page
 title: Past and future meetings
 ---
 ## Future Meetings
-### August 19 – 23, 2019
+to be announced
+
+
+## Past Meetings
+August 19 – 23, 2019
 
 Stars and their variability from space, Vienna, Austria.
 See also [here](https://starsandspace.univie.ac.at)
 
-## Past Meetings
+
 August 16 – 17, 2018
 
 BRITE-Constellation Executive Science Team Meeting & Workshop, Wroclaw, Poland.

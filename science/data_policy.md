@@ -3,12 +3,12 @@ layout: page
 title: Data Policy and Bylaws
 ---
 Details about the BRITE Constellation observing plan, including target
-star lists, are posted and updated on the [BRITE Photometry Wiki page](http://brite.craq-astro.ca).
+star lists, are posted and updated on the [BRITE Constellation Wiki page](http://brite-wiki.astro.uni.wroc.pl/bwiki/doku.php?id=start).
 
 Rules on data handling and publication are described in the BRITE Bylaws
-([as of Nov 25, 2019]({{ site.url }}{{ site.baseurl }}/downloads/BRITE_Bylaws-25_November_2019.pdf). Every BRITE PI is obliged to follow these rules. A
+([as of May 12, 2020]({{ site.url }}{{ site.baseurl }}/downloads/BRITE_Bylaws_12_May-2020_v21.pdf). Every BRITE PI is obliged to follow these rules. A
 document describing the BRITE-Constellation Bylaws can be retrieved
-[here (as of Nov 25, 2019).]({{ site.url }}{{ site.baseurl }}/downloads/BRITE_Bylaws-25_November_2019.pdf)
+[here (as of May 12, 2020).]({{ site.url }}{{ site.baseurl }}/downloads/BRITE_Bylaws_12_May-2020_v21.pdf)
 
 Publications based on BRITE-Constellation data must include the following
 footnote to the title:

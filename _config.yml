@@ -28,7 +28,6 @@ description: nano-statellites for astrophysicists
 navbar-links:
   News:
     - Brite news: "brite-news/index"
-    - International Conference&#58; August 19 – 23, 2019: "blogs/conference_2019"
     - Past and future meetings: "blogs/meetings"
   Science:
     - Basic Information: "science/basic_information"
