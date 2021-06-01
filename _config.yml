@@ -40,6 +40,10 @@ navbar-links:
     - Management: "constellation/management"
     - Ethics Statement: "constellation/ethics_statement"
     - Engineering: "constellation/engineering"
+  Sponsoring:
+    - Review : "sponsoring/review"
+    - Call : "sponsoring/call"
+    - Account: "sponsoring/account"
   GBOT:
     - Basic Information: "gbot/basic_information"
     - GB Observations: "gbot/observations"
