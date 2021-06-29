@@ -41,9 +41,9 @@ navbar-links:
     - Ethics Statement: "constellation/ethics_statement"
     - Engineering: "constellation/engineering"
   Sponsoring:
-    - Review : "sponsoring/review"
-    - Call : "sponsoring/call"
-    - Account: "sponsoring/account"
+    - Mission Status : "sponsoring/review"
+    - Donate : "sponsoring/call"
+    - Budget Status: "sponsoring/account"
   GBOT:
     - Basic Information: "gbot/basic_information"
     - GB Observations: "gbot/observations"
@@ -62,7 +62,7 @@ navbar-links:
 
 navbar-text-col: "#ffffff"
 navbar-col: "#000000"
-navbar-children-col: "#d3d4d5"
+navbar-children-col: "#565658"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
