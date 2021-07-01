@@ -12,7 +12,7 @@ title: Donate
 **BIC:** BKAUATWW  
 {: .alert .alert-info .text-center}
 
-Bills can be issued on request.
+Receipts or invoices can be issued on request.
 
 <br>
 
