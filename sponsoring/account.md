@@ -9,7 +9,7 @@ title: Budget Status
 <br>
 <!-- blank line -->
 
-# <span style="color:#0085A1"> Total amount donated to save BRITE-Constellation (as of June 29, 2021):  </span> <br> <span style="color:#000000"> 10 000 Euros </span>
+# <span style="color:#0085A1"> Total amount donated to save BRITE-Constellation (as of Sep. 2, 2021):  </span> <br> <span style="color:#000000"> 11 620 Euros </span>
 {: .alert .alert-info .text-center}
 
 
