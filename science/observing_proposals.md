@@ -13,10 +13,10 @@ following the Guidelines described in the
 
 
 Rules on data handling and publication are described in the
-[BRITE Bylaws (NEW: May 12, 2020).]({{ site.url }}{{ site.baseurl }}/downloads/BRITE_Bylaws_12_May-2020_v21.pdf)
+[BRITE Bylaws (NEW: August 17, 2021).]({{ site.url }}{{ site.baseurl }}/downloads/BRITE_Bylaws_17_August-2021_v22.pdf)
 Every BRITE PI is obliged to follow these rules. A
 document describing the BRITE-Constellation Bylaws can be retrieved
-[here. (NEW: May 12, 2020)]({{ site.url }}{{ site.baseurl }}/downloads/BRITE_Bylaws_12_May-2020_v21.pd)
+[here. (NEW: August 17, 2021)]({{ site.url }}{{ site.baseurl }}/downloads/BRITE_Bylaws_17_August-2021_v22.pdf)
 
 Publications based on BRITE-Constellation data must include the following
 footnote to the title:

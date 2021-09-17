@@ -6,9 +6,9 @@ Details about the BRITE Constellation observing plan, including target
 star lists, are posted and updated on the [BRITE Constellation Wiki page](http://brite-wiki.astro.uni.wroc.pl/bwiki/doku.php?id=start).
 
 Rules on data handling and publication are described in the BRITE Bylaws
-([as of May 12, 2020]({{ site.url }}{{ site.baseurl }}/downloads/BRITE_Bylaws_12_May-2020_v21.pdf). Every BRITE PI is obliged to follow these rules. A
+([as of August 17, 2021]({{ site.url }}{{ site.baseurl }}/downloads/BRITE_Bylaws_17_August-2021_v22.pdf). Every BRITE PI is obliged to follow these rules. A
 document describing the BRITE-Constellation Bylaws can be retrieved
-[here (as of May 12, 2020).]({{ site.url }}{{ site.baseurl }}/downloads/BRITE_Bylaws_12_May-2020_v21.pdf)
+[here (as of August 17, 2021).]({{ site.url }}{{ site.baseurl }}/downloads/BRITE_Bylaws_17_August-2021_v22.pdf)
 
 Publications based on BRITE-Constellation data must include the following
 footnote to the title:

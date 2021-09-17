@@ -24,4 +24,7 @@ title: Budget Status
 
 - [AustroSpace](https://www.austrospace.at)
 
-- Hideyuki Saio 
+- Hideyuki Saio
+
+{:class="table-same-width"}
+|<img src="{{ site.baseurl }}/img/RUAG_Logo_RGB.jpg"  class="ImageBorder" /> | <img src="{{ site.url }}/img/ASweb_gr.jpg" class="ImageBorder"/> | 
