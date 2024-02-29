@@ -12,11 +12,11 @@ granting access to the data.
 
 BEST currently consists of 12 voting members (4 per country), and in addition 15 non-voting members.
 
-**Current BRITE-Constellation chair:** Catherine Lovekin (Jan 2022 – Dec 2023)
+**Current BRITE-Constellation chair:** Gerald Handler (Jan 2024 – Dec 2025)
 
-**Current BRITE-Constellation vice-chair:** Gerald Handler (Jan 2022 – Dec 2023)
+**Current BRITE-Constellation vice-chair:** Catherine Lovekin (Jan 2024 – Dec 2025)
 
-**Voting BEST members (as of January 2022)**
+**Voting BEST members (as of January 2024)**
 
 {:class="table-same-width"}
 |<img src="{{ site.baseurl }}/img/flag-of-Austria.png"  class="ImageBorder" /> | <img src="{{ site.url }}/img/flag-of-Canada.png" class="ImageBorder"/> | <img src="{{ site.url }}/img/flag-of-Poland.png" class="ImageBorder"/>|
@@ -28,7 +28,7 @@ BEST currently consists of 12 voting members (4 per country), and in addition 15
 
 
 
-**Non-voting BEST members in alphabetical order (as of January 2022)**
+**Non-voting BEST members in alphabetical order (as of January 2024)**
 - Dietrich Baade
 - Paul Beck
 - Dominic Bowman
