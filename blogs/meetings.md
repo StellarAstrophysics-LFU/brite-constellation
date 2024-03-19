@@ -3,7 +3,14 @@ layout: page
 title: Past and future meetings
 ---
 ## Future Meetings
-to be announced
+
+August 20 - 23, 2024
+
+The BRITE Side of Stars, Vienna, Austria.
+See also [here](https://britestars.univie.ac.at/home/) 
+
+Registration is open!
+
 
 
 ## Past Meetings
@@ -11,6 +18,7 @@ August 19 – 23, 2019
 
 Stars and their variability from space, Vienna, Austria.
 See also [here](https://starsandspace.univie.ac.at)
+
 
 
 August 16 – 17, 2018
